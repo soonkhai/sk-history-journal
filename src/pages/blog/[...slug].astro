@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+// 1. Generate a new path for every markdown file in src/content/blog
+export async function getStaticPaths() {
+  const blogEntries = await getCollection('blog');
+  return blogEntries.map(entry => ({
+    params: { slug: entry.slug }, props: { entry },
+  }));
+}
+
+// 2. Get the data for the current page
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<Layout title={entry.data.title}>
+  <main class="pt-8 pb-16 px-4">
+    <article class="max-w-2xl mx-auto">
+
+        <a href="/" class="text-amber-500 hover:text-amber-400 mb-6 inline-block font-bold">← Back to Home</a>
+
+        <header class="mb-8">
+            <img src={entry.data.image} alt={entry.data.title} class="w-full h-64 object-cover rounded-xl shadow-lg mb-6" />
+            <h1 class="text-4xl font-extrabold text-white mb-2">{entry.data.title}</h1>
+            <p class="text-slate-400">{entry.data.pubDate.toDateString()}</p>
+        </header>
+
+        <div class="prose prose-invert prose-lg max-w-none text-slate-300 prose-headings:text-amber-500 prose-a:text-amber-500">
+            <Content />
+        </div>
+
+    </article>
+  </main>
+</Layout>
