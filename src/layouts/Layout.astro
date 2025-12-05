@@ -1,0 +1,24 @@
+---
+// 1. You must start with these three dashes to define the "server-side" logic area
+import '../styles/global.css';
+
+// The "Frontmatter" (Server-side JS)
+// Declare `title` as a prop with a safe default so it's always defined.
+export let title = "";
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title} | SK History Journal</title>
+        </head>
+	<body class="bg-slate-900 text-slate-100 font-sans min-h-screen">
+		<div class="max-w-md mx-auto p-4">
+            <slot />
+		</div>
+	</body>
+</html>
