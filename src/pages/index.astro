@@ -18,7 +18,7 @@ try {
 
   // 2. Fetch the latest 4 videos from that playlist
   const videoResponse = await fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${uploadsPlaylistId}&maxResults=4&key=${API_KEY}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${uploadsPlaylistId}&maxResults=10&key=${API_KEY}`
   );
   const videoData = await videoResponse.json();
   
