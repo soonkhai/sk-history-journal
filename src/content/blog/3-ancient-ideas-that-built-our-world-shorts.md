@@ -1,6 +1,6 @@
 ---
-title: "3 Ancient Ideas That Built Our World. #shorts"
-description: "3 Ancient Ideas That Built Our World. #shorts - Watch the full short history."
+title: "3 Ancient Ideas That Built Our World."
+description: "3 Ancient Ideas That Built Our World. - Watch the full short history."
 pubDate: 2025-11-21
 image: "https://i.ytimg.com/vi/AczcAL8kqWQ/maxresdefault.jpg"
 youtubeId: "AczcAL8kqWQ"

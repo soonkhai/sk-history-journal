@@ -1,6 +1,6 @@
 ---
-title: "The Silk Road's Most Valuable Cargo (It's Not Silk!) #Shorts"
-description: "The Silk Road's Most Valuable Cargo (It's Not Silk!) #Shorts - Watch the full short history."
+title: "The Silk Road's Most Valuable Cargo (It's Not Silk!)"
+description: "The Silk Road's Most Valuable Cargo (It's Not Silk!) - Watch the full short history."
 pubDate: 2025-11-15
 image: "https://i.ytimg.com/vi/gzianguBlok/maxresdefault.jpg"
 youtubeId: "gzianguBlok"

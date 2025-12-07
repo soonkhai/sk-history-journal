@@ -1,6 +1,6 @@
 ---
-title: "3 Viking Myths You Actually Believe 🛶 #shorts"
-description: "3 Viking Myths You Actually Believe 🛶 #shorts - Watch the full short history."
+title: "3 Viking Myths You Actually Believe 🛶"
+description: "3 Viking Myths You Actually Believe 🛶 - Watch the full short history."
 pubDate: 2025-11-28
 image: "https://i.ytimg.com/vi/XaJc1iy6Y-M/maxresdefault.jpg"
 youtubeId: "XaJc1iy6Y-M"

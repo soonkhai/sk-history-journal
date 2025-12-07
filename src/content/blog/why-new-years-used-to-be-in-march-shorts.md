@@ -1,6 +1,6 @@
 ---
-title: "Why New Year's Used to be in March! 🤯 #shorts"
-description: "Why New Year's Used to be in March! 🤯 #shorts - Watch the full short history."
+title: "Why New Year's Used to be in March! 🤯"
+description: "Why New Year's Used to be in March! 🤯 - Watch the full short history."
 pubDate: 2025-12-01
 image: "https://i.ytimg.com/vi/O3KxWAWroDs/maxresdefault.jpg"
 youtubeId: "O3KxWAWroDs"
@@ -16,7 +16,7 @@ We explore:
 
 Which fact surprised you the most? Let me know in the comments! 👇
 
-#NewYear #History #FunFacts #Shorts #Jan1st
+#NewYear #History #FunFacts #Jan1st
 
 ## Watch the Short
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/O3KxWAWroDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

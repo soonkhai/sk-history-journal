@@ -1,6 +1,6 @@
 ---
-title: "3 Food Facts That Sound Fake (But Are Real!) #shorts"
-description: "3 Food Facts That Sound Fake (But Are Real!) #shorts - Watch the full short history."
+title: "3 Food Facts That Sound Fake (But Are Real!)"
+description: "3 Food Facts That Sound Fake (But Are Real!) - Watch the full short history."
 pubDate: 2025-11-25
 image: "https://i.ytimg.com/vi/2Z29IzAR11Y/maxresdefault.jpg"
 youtubeId: "2Z29IzAR11Y"

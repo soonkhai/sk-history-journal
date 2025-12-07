@@ -1,6 +1,6 @@
 ---
-title: "The Mystery of the 1518 Dancing Plague 🕺⚰️ #shorts"
-description: "The Mystery of the 1518 Dancing Plague 🕺⚰️ #shorts - Watch the full short history."
+title: "The Mystery of the 1518 Dancing Plague 🕺⚰️"
+description: "The Mystery of the 1518 Dancing Plague 🕺⚰️ - Watch the full short history."
 pubDate: 2025-12-05
 image: "https://i.ytimg.com/vi/QGlBhv6HCuU/maxresdefault.jpg"
 youtubeId: "QGlBhv6HCuU"

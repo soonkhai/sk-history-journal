@@ -1,6 +1,6 @@
 ---
-title: "Vikings Were Poets & Skiers? The Truth Revealed 🤯 #shorts"
-description: "Vikings Were Poets & Skiers? The Truth Revealed 🤯 #shorts - Watch the full short history."
+title: "Vikings Were Poets & Skiers? The Truth Revealed 🤯"
+description: "Vikings Were Poets & Skiers? The Truth Revealed 🤯 - Watch the full short history."
 pubDate: 2025-11-30
 image: "https://i.ytimg.com/vi/TNLSFwc-uvE/maxresdefault.jpg"
 youtubeId: "TNLSFwc-uvE"

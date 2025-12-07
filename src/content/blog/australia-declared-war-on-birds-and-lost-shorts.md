@@ -1,6 +1,6 @@
 ---
-title: "Australia Declared War on Birds… And LOST. #Shorts"
-description: "Australia Declared War on Birds… And LOST. #Shorts - Watch the full short history."
+title: "Australia Declared War on Birds… And LOST."
+description: "Australia Declared War on Birds… And LOST. - Watch the full short history."
 pubDate: 2025-11-16
 image: "https://i.ytimg.com/vi/9Mw3YcAYlDM/maxresdefault.jpg"
 youtubeId: "9Mw3YcAYlDM"

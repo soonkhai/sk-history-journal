@@ -1,6 +1,6 @@
 ---
-title: "3 Mind-Blowing Christmas Facts in 60 Seconds 🎅 #shorts"
-description: "3 Mind-Blowing Christmas Facts in 60 Seconds 🎅 #shorts - Watch the full short history."
+title: "3 Mind-Blowing Christmas Facts in 60 Seconds 🎅"
+description: "3 Mind-Blowing Christmas Facts in 60 Seconds 🎅 - Watch the full short history."
 pubDate: 2025-11-29
 image: "https://i.ytimg.com/vi/HwXwSauYecI/maxresdefault.jpg"
 youtubeId: "HwXwSauYecI"

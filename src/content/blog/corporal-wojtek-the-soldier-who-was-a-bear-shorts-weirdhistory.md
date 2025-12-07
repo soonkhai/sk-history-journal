@@ -1,6 +1,6 @@
 ---
-title: "Corporal Wojtek: The Soldier Who Was a Bear 🇵🇱 #shorts #weirdhistory"
-description: "Corporal Wojtek: The Soldier Who Was a Bear 🇵🇱 #shorts #weirdhistory - Watch the full short history."
+title: "Corporal Wojtek: The Soldier Who Was a Bear 🇵🇱 #weirdhistory"
+description: "Corporal Wojtek: The Soldier Who Was a Bear 🇵🇱 #weirdhistory - Watch the full short history."
 pubDate: 2025-11-23
 image: "https://i.ytimg.com/vi/yMhpL5hkF6U/maxresdefault.jpg"
 youtubeId: "yMhpL5hkF6U"

@@ -1,6 +1,6 @@
 ---
-title: "A Soda Company Had a Navy! 🥤🚢 #Shorts"
-description: "A Soda Company Had a Navy! 🥤🚢 #Shorts - Watch the full short history."
+title: "A Soda Company Had a Navy! 🥤🚢"
+description: "A Soda Company Had a Navy! 🥤🚢 - Watch the full short history."
 pubDate: 2025-11-28
 image: "https://i.ytimg.com/vi/T8NJvLQFmlY/maxresdefault.jpg"
 youtubeId: "T8NJvLQFmlY"

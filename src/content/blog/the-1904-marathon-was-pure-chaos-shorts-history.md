@@ -1,6 +1,6 @@
 ---
-title: "The 1904 Marathon Was Pure Chaos 🤯 #shorts #history"
-description: "The 1904 Marathon Was Pure Chaos 🤯 #shorts #history - Watch the full short history."
+title: "The 1904 Marathon Was Pure Chaos 🤯"
+description: "The 1904 Marathon Was Pure Chaos 🤯 - Watch the full short history."
 pubDate: 2025-11-22
 image: "https://i.ytimg.com/vi/6dRKLSKH4iY/maxresdefault.jpg"
 youtubeId: "6dRKLSKH4iY"

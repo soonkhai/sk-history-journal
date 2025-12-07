@@ -1,6 +1,6 @@
 ---
-title: "3 Dark Origins of Normal Things #shorts"
-description: "3 Dark Origins of Normal Things #shorts - Watch the full short history."
+title: "3 Dark Origins of Normal Things"
+description: "3 Dark Origins of Normal Things - Watch the full short history."
 pubDate: 2025-12-06
 image: "https://i.ytimg.com/vi/6wLYlvh3DMY/maxresdefault.jpg"
 youtubeId: "6wLYlvh3DMY"

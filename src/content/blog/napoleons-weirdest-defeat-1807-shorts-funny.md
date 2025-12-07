@@ -1,6 +1,6 @@
 ---
-title: "Napoleon's Weirdest Defeat (1807) #shorts  #funny"
-description: "Napoleon's Weirdest Defeat (1807) #shorts  #funny - Watch the full short history."
+title: "Napoleon's Weirdest Defeat (1807)"
+description: "Napoleon's Weirdest Defeat (1807) - Watch the full short history."
 pubDate: 2025-11-22
 image: "https://i.ytimg.com/vi/V4LPYGiwr-g/maxresdefault.jpg"
 youtubeId: "V4LPYGiwr-g"

@@ -1,6 +1,6 @@
 ---
-title: "🤯 3 Ancient Mysteries That Still Baffle Scientists! #shorts"
-description: "🤯 3 Ancient Mysteries That Still Baffle Scientists! #shorts - Watch the full short history."
+title: "🤯 3 Ancient Mysteries That Still Baffle Scientists!"
+description: "🤯 3 Ancient Mysteries That Still Baffle Scientists! - Watch the full short history."
 pubDate: 2025-11-16
 image: "https://i.ytimg.com/vi/svcivW7u-pw/maxresdefault.jpg"
 youtubeId: "svcivW7u-pw"

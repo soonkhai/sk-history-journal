@@ -1,6 +1,6 @@
 ---
-title: "3 Animals Heroic Enough to Change the World 🌍 #shorts"
-description: "3 Animals Heroic Enough to Change the World 🌍 #shorts - Watch the full short history."
+title: "3 Animals Heroic Enough to Change the World 🌍"
+description: "3 Animals Heroic Enough to Change the World 🌍 - Watch the full short history."
 pubDate: 2025-11-26
 image: "https://i.ytimg.com/vi/rWdnV3saZT4/maxresdefault.jpg"
 youtubeId: "rWdnV3saZT4"

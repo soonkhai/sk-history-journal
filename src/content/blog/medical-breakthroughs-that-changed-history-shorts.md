@@ -1,6 +1,6 @@
 ---
-title: "Medical Breakthroughs That Changed History. #shorts"
-description: "Medical Breakthroughs That Changed History. #shorts - Watch the full short history."
+title: "Medical Breakthroughs That Changed History."
+description: "Medical Breakthroughs That Changed History. - Watch the full short history."
 pubDate: 2025-11-17
 image: "https://i.ytimg.com/vi/iGxV5FQLn9s/maxresdefault.jpg"
 youtubeId: "iGxV5FQLn9s"

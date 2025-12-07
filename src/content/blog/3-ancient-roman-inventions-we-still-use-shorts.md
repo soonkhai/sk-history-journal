@@ -1,6 +1,6 @@
 ---
-title: "3 Ancient Roman Inventions We Still Use! #Shorts"
-description: "3 Ancient Roman Inventions We Still Use! #Shorts - Watch the full short history."
+title: "3 Ancient Roman Inventions We Still Use!"
+description: "3 Ancient Roman Inventions We Still Use! - Watch the full short history."
 pubDate: 2025-11-19
 image: "https://i.ytimg.com/vi/4q-_KtW_Tkk/maxresdefault.jpg"
 youtubeId: "4q-_KtW_Tkk"

@@ -1,6 +1,6 @@
 ---
-title: "3 Inventions from Ancient Mesopotamia #shorts"
-description: "3 Inventions from Ancient Mesopotamia #shorts - Watch the full short history."
+title: "3 Inventions from Ancient Mesopotamia"
+description: "3 Inventions from Ancient Mesopotamia - Watch the full short history."
 pubDate: 2025-11-24
 image: "https://i.ytimg.com/vi/nlHxYmoh-y8/maxresdefault.jpg"
 youtubeId: "nlHxYmoh-y8"

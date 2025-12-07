@@ -1,6 +1,6 @@
 ---
-title: "Song Dynasty 3 Inventions That Changed the World #shorts"
-description: "Song Dynasty 3 Inventions That Changed the World #shorts - Watch the full short history."
+title: "Song Dynasty 3 Inventions That Changed the World"
+description: "Song Dynasty 3 Inventions That Changed the World - Watch the full short history."
 pubDate: 2025-11-15
 image: "https://i.ytimg.com/vi/pbSqP5pByug/maxresdefault.jpg"
 youtubeId: "pbSqP5pByug"

@@ -1,6 +1,6 @@
 ---
-title: "3 Ancient Indian Inventions That Changed the World 🇮🇳 #shorts"
-description: "3 Ancient Indian Inventions That Changed the World 🇮🇳 #shorts - Watch the full short history."
+title: "3 Ancient Indian Inventions That Changed the World 🇮🇳"
+description: "3 Ancient Indian Inventions That Changed the World 🇮🇳 - Watch the full short history."
 pubDate: 2025-11-26
 image: "https://i.ytimg.com/vi/L8QK4yHmbcY/maxresdefault.jpg"
 youtubeId: "L8QK4yHmbcY"

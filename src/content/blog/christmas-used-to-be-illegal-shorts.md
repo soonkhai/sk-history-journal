@@ -1,6 +1,6 @@
 ---
-title: "Christmas Used to be ILLEGAL?! 🚫🎅 #shorts"
-description: "Christmas Used to be ILLEGAL?! 🚫🎅 #shorts - Watch the full short history."
+title: "Christmas Used to be ILLEGAL?! 🚫🎅"
+description: "Christmas Used to be ILLEGAL?! 🚫🎅 - Watch the full short history."
 pubDate: 2025-12-02
 image: "https://i.ytimg.com/vi/-nDytwxZnKI/maxresdefault.jpg"
 youtubeId: "-nDytwxZnKI"

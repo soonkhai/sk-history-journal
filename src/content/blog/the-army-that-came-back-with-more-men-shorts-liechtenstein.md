@@ -1,6 +1,6 @@
 ---
-title: "The Army That Came Back with MORE Men! 😲 #shorts #liechtenstein"
-description: "The Army That Came Back with MORE Men! 😲 #shorts #liechtenstein - Watch the full short history."
+title: "The Army That Came Back with MORE Men! 😲"
+description: "The Army That Came Back with MORE Men! 😲 - Watch the full short history."
 pubDate: 2025-11-23
 image: "https://i.ytimg.com/vi/9OqZj8L9qAA/maxresdefault.jpg"
 youtubeId: "9OqZj8L9qAA"

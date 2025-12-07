@@ -1,6 +1,6 @@
 ---
-title: "3 Foods Invented by Mistake 🍪 #shorts"
-description: "3 Foods Invented by Mistake 🍪 #shorts - Watch the full short history."
+title: "3 Foods Invented by Mistake 🍪"
+description: "3 Foods Invented by Mistake 🍪 - Watch the full short history."
 pubDate: 2025-11-27
 image: "https://i.ytimg.com/vi/MZCIvAUKcDE/maxresdefault.jpg"
 youtubeId: "MZCIvAUKcDE"

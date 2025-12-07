@@ -1,6 +1,6 @@
 ---
-title: "How Cats Defeated an Entire Army 🐱🛡️ #shorts"
-description: "How Cats Defeated an Entire Army 🐱🛡️ #shorts - Watch the full short history."
+title: "How Cats Defeated an Entire Army 🐱🛡️"
+description: "How Cats Defeated an Entire Army 🐱🛡️ - Watch the full short history."
 pubDate: 2025-11-29
 image: "https://i.ytimg.com/vi/qPpSBbX2e_I/maxresdefault.jpg"
 youtubeId: "qPpSBbX2e_I"

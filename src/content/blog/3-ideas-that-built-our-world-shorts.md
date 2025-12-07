@@ -1,6 +1,6 @@
 ---
-title: "3 Ideas That Built Our World #Shorts"
-description: "3 Ideas That Built Our World #Shorts - Watch the full short history."
+title: "3 Ideas That Built Our World"
+description: "3 Ideas That Built Our World - Watch the full short history."
 pubDate: 2025-11-18
 image: "https://i.ytimg.com/vi/_Q1l2nNDxKA/maxresdefault.jpg"
 youtubeId: "_Q1l2nNDxKA"

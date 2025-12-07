@@ -1,6 +1,6 @@
 ---
-title: "The WWII Secret Behind Carrots 🥕🇬🇧 #shorts"
-description: "The WWII Secret Behind Carrots 🥕🇬🇧 #shorts - Watch the full short history."
+title: "The WWII Secret Behind Carrots 🥕🇬🇧"
+description: "The WWII Secret Behind Carrots 🥕🇬🇧 - Watch the full short history."
 pubDate: 2025-11-30
 image: "https://i.ytimg.com/vi/A4xAdINX8bc/maxresdefault.jpg"
 youtubeId: "A4xAdINX8bc"

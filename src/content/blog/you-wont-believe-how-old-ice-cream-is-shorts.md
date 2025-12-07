@@ -1,6 +1,6 @@
 ---
-title: "You Won’t Believe How Old Ice Cream Is! #shorts"
-description: "You Won’t Believe How Old Ice Cream Is! #shorts - Watch the full short history."
+title: "You Won’t Believe How Old Ice Cream Is!"
+description: "You Won’t Believe How Old Ice Cream Is! - Watch the full short history."
 pubDate: 2025-11-25
 image: "https://i.ytimg.com/vi/rQI6VT-y0PY/maxresdefault.jpg"
 youtubeId: "rQI6VT-y0PY"

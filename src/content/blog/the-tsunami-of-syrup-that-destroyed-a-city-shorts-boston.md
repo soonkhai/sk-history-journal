@@ -1,6 +1,6 @@
 ---
-title: "The Tsunami of Syrup That Destroyed a City 🍯 #shorts #boston"
-description: "The Tsunami of Syrup That Destroyed a City 🍯 #shorts #boston - Watch the full short history."
+title: "The Tsunami of Syrup That Destroyed a City 🍯"
+description: "The Tsunami of Syrup That Destroyed a City 🍯 - Watch the full short history."
 pubDate: 2025-11-23
 image: "https://i.ytimg.com/vi/0oPcHVKkXHw/maxresdefault.jpg"
 youtubeId: "0oPcHVKkXHw"
@@ -13,7 +13,7 @@ In this video: • How a tank of syrup turned into a deadly weapon 🏭 • A wa
 
 Would you rather face a flood of water or a flood of syrup? Let me know in the comments! 👇
 
-#history #weirdhistory #boston #shorts #facts #1919
+#history #weirdhistory #boston #facts #1919
 
 ## Watch the Short
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/0oPcHVKkXHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

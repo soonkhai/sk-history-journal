@@ -1,6 +1,6 @@
 ---
-title: "Imagine Carrying 60lbs of Coins for Groceries? 😱 #shorts"
-description: "Imagine Carrying 60lbs of Coins for Groceries? 😱 #shorts - Watch the full short history."
+title: "Imagine Carrying 60lbs of Coins for Groceries? 😱"
+description: "Imagine Carrying 60lbs of Coins for Groceries? 😱 - Watch the full short history."
 pubDate: 2025-11-27
 image: "https://i.ytimg.com/vi/VAP1pBLyfqk/maxresdefault.jpg"
 youtubeId: "VAP1pBLyfqk"

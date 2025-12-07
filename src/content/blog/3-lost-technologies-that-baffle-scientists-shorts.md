@@ -1,6 +1,6 @@
 ---
-title: "3 Lost Technologies That Baffle Scientists. #shorts"
-description: "3 Lost Technologies That Baffle Scientists. #shorts - Watch the full short history."
+title: "3 Lost Technologies That Baffle Scientists."
+description: "3 Lost Technologies That Baffle Scientists. - Watch the full short history."
 pubDate: 2025-11-20
 image: "https://i.ytimg.com/vi/5UueHepdi7k/maxresdefault.jpg"
 youtubeId: "5UueHepdi7k"

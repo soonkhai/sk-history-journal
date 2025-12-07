@@ -1,6 +1,6 @@
 ---
-title: "3 Everyday Things You Didn’t Know Were Indian 🇮🇳 #shorts"
-description: "3 Everyday Things You Didn’t Know Were Indian 🇮🇳 #shorts - Watch the full short history."
+title: "3 Everyday Things You Didn’t Know Were Indian 🇮🇳"
+description: "3 Everyday Things You Didn’t Know Were Indian 🇮🇳 - Watch the full short history."
 pubDate: 2025-12-04
 image: "https://i.ytimg.com/vi/2AzrnMHmQuE/maxresdefault.jpg"
 youtubeId: "2AzrnMHmQuE"
