@@ -14,7 +14,7 @@ Anesthesia (William T.G. Morton)
 Penicillin (Alexander Fleming)
 Which breakthrough do you think is the most important? Let me know in the comments!
 Thanks for watching History Seeker!
-#Shorts #History #Medicine #HistoryFacts #DidYouKnow
+#History #Medicine #HistoryFacts #DidYouKnow
 
 ## Watch the Short
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/iGxV5FQLn9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
