@@ -1,6 +1,6 @@
 ---
-title: "Why Pool Tables Are GREEN (The Truth) #shorts"
-description: "Why Pool Tables Are GREEN (The Truth) #shorts - Watch the full short history."
+title: "Why Pool Tables Are GREEN (The Truth)"
+description: "Why Pool Tables Are GREEN (The Truth) - Watch the full short history."
 pubDate: 2025-12-27
 image: "https://i.ytimg.com/vi/mGtr1r9Rj_Q/maxresdefault.jpg"
 youtubeId: "mGtr1r9Rj_Q"

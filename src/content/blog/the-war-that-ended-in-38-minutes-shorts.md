@@ -1,6 +1,6 @@
 ---
-title: "The War That Ended In 38 MINUTES! #shorts"
-description: "The War That Ended In 38 MINUTES! #shorts - Watch the full short history."
+title: "The War That Ended In 38 MINUTES!"
+description: "The War That Ended In 38 MINUTES! - Watch the full short history."
 pubDate: 2025-12-24
 image: "https://i.ytimg.com/vi/gJpvNjKjzEo/maxresdefault.jpg"
 youtubeId: "gJpvNjKjzEo"

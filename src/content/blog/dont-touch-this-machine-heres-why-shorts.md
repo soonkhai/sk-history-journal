@@ -1,6 +1,6 @@
 ---
-title: "Don’t Touch This Machine! (Here’s Why) #shorts"
-description: "Don’t Touch This Machine! (Here’s Why) #shorts - Watch the full short history."
+title: "Don’t Touch This Machine! (Here’s Why)"
+description: "Don’t Touch This Machine! (Here’s Why) - Watch the full short history."
 pubDate: 2025-12-26
 image: "https://i.ytimg.com/vi/OTD_QK0Nt48/maxresdefault.jpg"
 youtubeId: "OTD_QK0Nt48"

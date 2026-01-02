@@ -1,6 +1,6 @@
 ---
-title: "Why 1700s Rich People RENTED Fruit? 🍍😱 #shorts"
-description: "Why 1700s Rich People RENTED Fruit? 🍍😱 #shorts - Watch the full short history."
+title: "Why 1700s Rich People RENTED Fruit? 🍍😱"
+description: "Why 1700s Rich People RENTED Fruit? 🍍😱 - Watch the full short history."
 pubDate: 2025-12-22
 image: "https://i.ytimg.com/vi/C6gUrbB5SPE/maxresdefault.jpg"
 youtubeId: "C6gUrbB5SPE"

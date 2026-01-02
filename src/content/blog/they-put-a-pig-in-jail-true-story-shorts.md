@@ -1,6 +1,6 @@
 ---
-title: "They Put a PIG in Jail? (True Story) #shorts"
-description: "They Put a PIG in Jail? (True Story) #shorts - Watch the full short history."
+title: "They Put a PIG in Jail? (True Story)"
+description: "They Put a PIG in Jail? (True Story) - Watch the full short history."
 pubDate: 2025-12-18
 image: "https://i.ytimg.com/vi/GeH3EMS92cQ/maxresdefault.jpg"
 youtubeId: "GeH3EMS92cQ"

@@ -1,6 +1,6 @@
 ---
-title: "Wearing DEAD PEOPLE’S TEETH! #shorts"
-description: "Wearing DEAD PEOPLE’S TEETH! #shorts - Watch the full short history."
+title: "Wearing DEAD PEOPLE’S TEETH!"
+description: "Wearing DEAD PEOPLE’S TEETH! - Watch the full short history."
 pubDate: 2025-12-20
 image: "https://i.ytimg.com/vi/yJDO9IUWNEo/maxresdefault.jpg"
 youtubeId: "yJDO9IUWNEo"

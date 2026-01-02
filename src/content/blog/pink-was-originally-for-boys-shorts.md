@@ -1,6 +1,6 @@
 ---
-title: "Pink Was Originally for BOYS?! #shorts"
-description: "Pink Was Originally for BOYS?! #shorts - Watch the full short history."
+title: "Pink Was Originally for BOYS?!"
+description: "Pink Was Originally for BOYS?! - Watch the full short history."
 pubDate: 2025-12-17
 image: "https://i.ytimg.com/vi/6ixa2gmvW28/maxresdefault.jpg"
 youtubeId: "6ixa2gmvW28"

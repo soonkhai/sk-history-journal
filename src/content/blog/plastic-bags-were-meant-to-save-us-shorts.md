@@ -1,6 +1,6 @@
 ---
-title: "Plastic Bags Were Meant to SAVE Us! #shorts"
-description: "Plastic Bags Were Meant to SAVE Us! #shorts - Watch the full short history."
+title: "Plastic Bags Were Meant to SAVE Us!"
+description: "Plastic Bags Were Meant to SAVE Us! - Watch the full short history."
 pubDate: 2025-12-15
 image: "https://i.ytimg.com/vi/zPIngNXe6yU/maxresdefault.jpg"
 youtubeId: "zPIngNXe6yU"

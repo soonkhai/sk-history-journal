@@ -1,6 +1,6 @@
 ---
-title: "The Job That PAID You to Wake Up? #shorts"
-description: "The Job That PAID You to Wake Up? #shorts - Watch the full short history."
+title: "The Job That PAID You to Wake Up?"
+description: "The Job That PAID You to Wake Up? - Watch the full short history."
 pubDate: 2025-12-21
 image: "https://i.ytimg.com/vi/eaNePuE5R-k/maxresdefault.jpg"
 youtubeId: "eaNePuE5R-k"

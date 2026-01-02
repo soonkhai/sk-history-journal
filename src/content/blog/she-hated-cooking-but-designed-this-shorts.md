@@ -1,6 +1,6 @@
 ---
-title: "She HATED Cooking But Designed THIS! #shorts"
-description: "She HATED Cooking But Designed THIS! #shorts - Watch the full short history."
+title: "She HATED Cooking But Designed THIS!"
+description: "She HATED Cooking But Designed THIS! - Watch the full short history."
 pubDate: 2025-12-30
 image: "https://i.ytimg.com/vi/0GrZVk7azIE/maxresdefault.jpg"
 youtubeId: "0GrZVk7azIE"

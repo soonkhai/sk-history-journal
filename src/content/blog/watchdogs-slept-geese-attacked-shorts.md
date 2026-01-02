@@ -1,6 +1,6 @@
 ---
-title: "Watchdogs Slept, GEESE Attacked! #shorts"
-description: "Watchdogs Slept, GEESE Attacked! #shorts - Watch the full short history."
+title: "Watchdogs Slept, GEESE Attacked!"
+description: "Watchdogs Slept, GEESE Attacked! - Watch the full short history."
 pubDate: 2026-01-02
 image: "https://i.ytimg.com/vi/XH6bOu9PKyA/maxresdefault.jpg"
 youtubeId: "XH6bOu9PKyA"

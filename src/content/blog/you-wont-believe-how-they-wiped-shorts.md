@@ -1,6 +1,6 @@
 ---
-title: "You Won’t Believe How They Wiped 🧽 #shorts"
-description: "You Won’t Believe How They Wiped 🧽 #shorts - Watch the full short history."
+title: "You Won’t Believe How They Wiped 🧽"
+description: "You Won’t Believe How They Wiped 🧽 - Watch the full short history."
 pubDate: 2025-12-16
 image: "https://i.ytimg.com/vi/o3giZZroFQY/maxresdefault.jpg"
 youtubeId: "o3giZZroFQY"

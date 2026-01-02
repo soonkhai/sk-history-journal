@@ -1,6 +1,6 @@
 ---
-title: "Most DANGEROUS Toy in History! #shorts"
-description: "Most DANGEROUS Toy in History! #shorts - Watch the full short history."
+title: "Most DANGEROUS Toy in History!"
+description: "Most DANGEROUS Toy in History! - Watch the full short history."
 pubDate: 2025-12-19
 image: "https://i.ytimg.com/vi/GqHZzLeHgDA/maxresdefault.jpg"
 youtubeId: "GqHZzLeHgDA"

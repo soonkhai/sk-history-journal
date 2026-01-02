@@ -1,6 +1,6 @@
 ---
-title: "The Truck Driver Who SAVED The World! #shorts"
-description: "The Truck Driver Who SAVED The World! #shorts - Watch the full short history."
+title: "The Truck Driver Who SAVED The World!"
+description: "The Truck Driver Who SAVED The World! - Watch the full short history."
 pubDate: 2025-12-31
 image: "https://i.ytimg.com/vi/8vF27-ruj7U/maxresdefault.jpg"
 youtubeId: "8vF27-ruj7U"

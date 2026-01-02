@@ -1,6 +1,6 @@
 ---
-title: "He SOLD The Eiffel Tower TWICE! 😲 #shorts"
-description: "He SOLD The Eiffel Tower TWICE! 😲 #shorts - Watch the full short history."
+title: "He SOLD The Eiffel Tower TWICE! 😲"
+description: "He SOLD The Eiffel Tower TWICE! 😲 - Watch the full short history."
 pubDate: 2025-12-23
 image: "https://i.ytimg.com/vi/t9kfRkXXHYA/maxresdefault.jpg"
 youtubeId: "t9kfRkXXHYA"

@@ -1,6 +1,6 @@
 ---
-title: "How Popcorn SAVED Theaters from Ruin 🎬 #shorts"
-description: "How Popcorn SAVED Theaters from Ruin 🎬 #shorts - Watch the full short history."
+title: "How Popcorn SAVED Theaters from Ruin 🎬"
+description: "How Popcorn SAVED Theaters from Ruin 🎬 - Watch the full short history."
 pubDate: 2025-12-25
 image: "https://i.ytimg.com/vi/J6WQb2Z-YpM/maxresdefault.jpg"
 youtubeId: "J6WQb2Z-YpM"
